@@ -1,6 +1,6 @@
 .header__lang {
-    width: min-content;
-    display: flex;
-    gap: 18px;
-    justify-content: flex-end;
-  }
+  width: min-content;
+  display: flex;
+  gap: 18px;
+  justify-content: flex-end;
+}
